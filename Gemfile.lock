@@ -11,7 +11,7 @@ GEM
       fssm (>= 0.2.7)
       sass (~> 3.2.19)
     execjs (2.7.0)
-    ffi (1.9.14)
+    ffi (1.13.1)
     forwardable-extended (2.6.0)
     fssm (0.2.10)
     haml (4.0.7)
